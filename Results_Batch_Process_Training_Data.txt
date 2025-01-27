@@ -1,0 +1,2563 @@
+Lenght of table id 26
+Number of GEDI points: 534756
+Number of first filtered GEDI points: 0
+Number of 2nd filtered GEDI points: 0
+Lenght of table id 21
+Number of GEDI points: 418548
+Number of first filtered GEDI points: 2056
+Number of 2nd filtered GEDI points: 2056
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733515415813, 'update_timestamp_ms': 1733515415813, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'BPJK2CDCZJSLSIALADAUB3PI', 'name': 'projects/test-project-agb/operations/BPJK2CDCZJSLSIALADAUB3PI'}
+Export started
+Current task state: READY
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 28
+Number of GEDI points: 606463
+Number of first filtered GEDI points: 3712
+Number of 2nd filtered GEDI points: 3712
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733515484341, 'update_timestamp_ms': 1733515484341, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'UGPUT5MQTFMHR7IFZKZ6CHS4', 'name': 'projects/test-project-agb/operations/UGPUT5MQTFMHR7IFZKZ6CHS4'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 29
+Number of GEDI points: 684675
+Number of first filtered GEDI points: 14560
+Number of 2nd filtered GEDI points: 14560
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733515589389, 'update_timestamp_ms': 1733515589389, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'RBXQS3ZMEHB2YC3EZ2DPOWUR', 'name': 'projects/test-project-agb/operations/RBXQS3ZMEHB2YC3EZ2DPOWUR'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 20
+Number of GEDI points: 388037
+Number of first filtered GEDI points: 34226
+Number of 2nd filtered GEDI points: 34226
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733515712631, 'update_timestamp_ms': 1733515712631, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '73APWSOWSY5VENSESLF5IYKS', 'name': 'projects/test-project-agb/operations/73APWSOWSY5VENSESLF5IYKS'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 17
+Number of GEDI points: 317480
+Number of first filtered GEDI points: 68003
+Number of 2nd filtered GEDI points: 68003
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733515896856, 'update_timestamp_ms': 1733515896856, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'QJ3WRSU6TRD36FBYTVNKWYMD', 'name': 'projects/test-project-agb/operations/QJ3WRSU6TRD36FBYTVNKWYMD'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 24
+Number of GEDI points: 509170
+Number of first filtered GEDI points: 48558
+Number of 2nd filtered GEDI points: 48558
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733516088622, 'update_timestamp_ms': 1733516088622, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'VAHEYVUNVDSHV2CYHBLJCDBO', 'name': 'projects/test-project-agb/operations/VAHEYVUNVDSHV2CYHBLJCDBO'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 26
+Number of GEDI points: 627718
+Number of first filtered GEDI points: 124622
+Number of 2nd filtered GEDI points: 124622
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733516321190, 'update_timestamp_ms': 1733516321190, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'BVBV54SN6Y3S4Z6I3EF6HV23', 'name': 'projects/test-project-agb/operations/BVBV54SN6Y3S4Z6I3EF6HV23'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733516321190, 'update_timestamp_ms': 1733516374988, 'start_timestamp_ms': 1733516328712, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1698.799682617, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'BVBV54SN6Y3S4Z6I3EF6HV23', 'name': 'projects/test-project-agb/operations/BVBV54SN6Y3S4Z6I3EF6HV23'}
+Lenght of table id 36
+Number of GEDI points: 464688
+Number of first filtered GEDI points: 99903
+Number of 2nd filtered GEDI points: 99903
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733516432199, 'update_timestamp_ms': 1733516432199, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '3AUDES7A7VYHZGS77R5AW4XV', 'name': 'projects/test-project-agb/operations/3AUDES7A7VYHZGS77R5AW4XV'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 19
+Number of GEDI points: 369595
+Number of first filtered GEDI points: 30902
+Number of 2nd filtered GEDI points: 30902
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733516834302, 'update_timestamp_ms': 1733516834302, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'SHOIWJDBV64ZTZN2NCTM5UT2', 'name': 'projects/test-project-agb/operations/SHOIWJDBV64ZTZN2NCTM5UT2'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 20
+Number of GEDI points: 456216
+Number of first filtered GEDI points: 22976
+Number of 2nd filtered GEDI points: 22976
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733517022926, 'update_timestamp_ms': 1733517022926, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'WW6VQULV3FOWE367CCSHEFVI', 'name': 'projects/test-project-agb/operations/WW6VQULV3FOWE367CCSHEFVI'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 26
+Number of GEDI points: 546391
+Number of first filtered GEDI points: 43742
+Number of 2nd filtered GEDI points: 43742
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733517166463, 'update_timestamp_ms': 1733517166463, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'VDITPRYLHHHV4HSSR6XTCRS6', 'name': 'projects/test-project-agb/operations/VDITPRYLHHHV4HSSR6XTCRS6'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 26
+Number of GEDI points: 589555
+Number of first filtered GEDI points: 5524
+Number of 2nd filtered GEDI points: 5524
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733517423005, 'update_timestamp_ms': 1733517423005, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'NS5AXMOKNKPSETWFDRSCT4HC', 'name': 'projects/test-project-agb/operations/NS5AXMOKNKPSETWFDRSCT4HC'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 29
+Number of GEDI points: 563858
+Number of first filtered GEDI points: 16257
+Number of 2nd filtered GEDI points: 16257
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733517525213, 'update_timestamp_ms': 1733517525213, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '7BMMQE47BNTDSB22C33WBJWD', 'name': 'projects/test-project-agb/operations/7BMMQE47BNTDSB22C33WBJWD'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 24
+Number of GEDI points: 532715
+Number of first filtered GEDI points: 24289
+Number of 2nd filtered GEDI points: 24289
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733517763420, 'update_timestamp_ms': 1733517763420, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'IH74LY7MM5PXZ2CRGDTZJLQB', 'name': 'projects/test-project-agb/operations/IH74LY7MM5PXZ2CRGDTZJLQB'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 23
+Number of GEDI points: 463236
+Number of first filtered GEDI points: 41353
+Number of 2nd filtered GEDI points: 41353
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733518049444, 'update_timestamp_ms': 1733518049444, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'LGITTVVE7DVX7NKB6FIPOB5J', 'name': 'projects/test-project-agb/operations/LGITTVVE7DVX7NKB6FIPOB5J'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 24
+Number of GEDI points: 521002
+Number of first filtered GEDI points: 140810
+Number of 2nd filtered GEDI points: 140810
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733518214545, 'update_timestamp_ms': 1733518214545, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'FUCKLJI6DJ4JE7C4O4WAXCRR', 'name': 'projects/test-project-agb/operations/FUCKLJI6DJ4JE7C4O4WAXCRR'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733518214545, 'update_timestamp_ms': 1733518279896, 'start_timestamp_ms': 1733518231524, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1638.659667968, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'FUCKLJI6DJ4JE7C4O4WAXCRR', 'name': 'projects/test-project-agb/operations/FUCKLJI6DJ4JE7C4O4WAXCRR'}
+Lenght of table id 23
+Number of GEDI points: 479810
+Number of first filtered GEDI points: 111046
+Number of 2nd filtered GEDI points: 111046
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733518349632, 'update_timestamp_ms': 1733518349632, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '6K4OGZJMRYAS2WU6DOV7GPWL', 'name': 'projects/test-project-agb/operations/6K4OGZJMRYAS2WU6DOV7GPWL'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 21
+Number of GEDI points: 450477
+Number of first filtered GEDI points: 48405
+Number of 2nd filtered GEDI points: 48405
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733518662768, 'update_timestamp_ms': 1733518662768, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'GURJT3C2DULEOLQNWBFPPNTC', 'name': 'projects/test-project-agb/operations/GURJT3C2DULEOLQNWBFPPNTC'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 21
+Number of GEDI points: 475114
+Number of first filtered GEDI points: 90096
+Number of 2nd filtered GEDI points: 90096
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733519041067, 'update_timestamp_ms': 1733519041067, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'DNNAPTWAQMR4BONXBI5TMDAN', 'name': 'projects/test-project-agb/operations/DNNAPTWAQMR4BONXBI5TMDAN'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 35
+Number of GEDI points: 499561
+Number of first filtered GEDI points: 161792
+Number of 2nd filtered GEDI points: 161792
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733519258645, 'update_timestamp_ms': 1733519258645, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'MHEUVQRR5BSIMURFVGMN4T7I', 'name': 'projects/test-project-agb/operations/MHEUVQRR5BSIMURFVGMN4T7I'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733519258645, 'update_timestamp_ms': 1733519308955, 'start_timestamp_ms': 1733519269283, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1559.783203125, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'MHEUVQRR5BSIMURFVGMN4T7I', 'name': 'projects/test-project-agb/operations/MHEUVQRR5BSIMURFVGMN4T7I'}
+Lenght of table id 22
+Number of GEDI points: 502711
+Number of first filtered GEDI points: 57064
+Number of 2nd filtered GEDI points: 57064
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733519357352, 'update_timestamp_ms': 1733519357352, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'LKCG4WNJF2G57DSGIB6T4YPW', 'name': 'projects/test-project-agb/operations/LKCG4WNJF2G57DSGIB6T4YPW'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 25
+Number of GEDI points: 511921
+Number of first filtered GEDI points: 121655
+Number of 2nd filtered GEDI points: 121655
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733519556733, 'update_timestamp_ms': 1733519556733, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '3PGIYVF5ARHKQ3VC2AZ337X4', 'name': 'projects/test-project-agb/operations/3PGIYVF5ARHKQ3VC2AZ337X4'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 22
+Number of GEDI points: 523677
+Number of first filtered GEDI points: 108503
+Number of 2nd filtered GEDI points: 108503
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733519879834, 'update_timestamp_ms': 1733519879834, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'DMIOPKSORFYFPV4VFDMWVOEL', 'name': 'projects/test-project-agb/operations/DMIOPKSORFYFPV4VFDMWVOEL'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 27
+Number of GEDI points: 547131
+Number of first filtered GEDI points: 45152
+Number of 2nd filtered GEDI points: 45152
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733520070354, 'update_timestamp_ms': 1733520070354, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'BYC6KCRO7G5Z2S3OSNQWAJMG', 'name': 'projects/test-project-agb/operations/BYC6KCRO7G5Z2S3OSNQWAJMG'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 30
+Number of GEDI points: 655764
+Number of first filtered GEDI points: 29026
+Number of 2nd filtered GEDI points: 29026
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733520295304, 'update_timestamp_ms': 1733520295304, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'AR7H5L3HRVCC6TQ6ARF5AUJN', 'name': 'projects/test-project-agb/operations/AR7H5L3HRVCC6TQ6ARF5AUJN'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 22
+Number of GEDI points: 443866
+Number of first filtered GEDI points: 72172
+Number of 2nd filtered GEDI points: 72172
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733520488134, 'update_timestamp_ms': 1733520488134, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'AIKFSEFYRS2HNRXA23GZJVPW', 'name': 'projects/test-project-agb/operations/AIKFSEFYRS2HNRXA23GZJVPW'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 19
+Number of GEDI points: 390595
+Number of first filtered GEDI points: 72530
+Number of 2nd filtered GEDI points: 72530
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733520828416, 'update_timestamp_ms': 1733520828416, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'ADS2HFFG6R2OSMQBYVF2OPKN', 'name': 'projects/test-project-agb/operations/ADS2HFFG6R2OSMQBYVF2OPKN'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 25
+Number of GEDI points: 544676
+Number of first filtered GEDI points: 65990
+Number of 2nd filtered GEDI points: 65990
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733521062844, 'update_timestamp_ms': 1733521062844, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'AII2E3OPDGZKGKIJLDLV76UK', 'name': 'projects/test-project-agb/operations/AII2E3OPDGZKGKIJLDLV76UK'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 28
+Number of GEDI points: 631051
+Number of first filtered GEDI points: 124443
+Number of 2nd filtered GEDI points: 124443
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733521337602, 'update_timestamp_ms': 1733521337602, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'Z6PJE7ANFRGER7QEOSDUFYB5', 'name': 'projects/test-project-agb/operations/Z6PJE7ANFRGER7QEOSDUFYB5'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733521337602, 'update_timestamp_ms': 1733521378640, 'start_timestamp_ms': 1733521350744, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1462.23461914, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'Z6PJE7ANFRGER7QEOSDUFYB5', 'name': 'projects/test-project-agb/operations/Z6PJE7ANFRGER7QEOSDUFYB5'}
+Lenght of table id 21
+Number of GEDI points: 495116
+Number of first filtered GEDI points: 102875
+Number of 2nd filtered GEDI points: 102875
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733521445435, 'update_timestamp_ms': 1733521445435, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'HN4JCVZE5ZF7SSY76SGZCKBV', 'name': 'projects/test-project-agb/operations/HN4JCVZE5ZF7SSY76SGZCKBV'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 19
+Number of GEDI points: 316369
+Number of first filtered GEDI points: 135973
+Number of 2nd filtered GEDI points: 135973
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733521910015, 'update_timestamp_ms': 1733521910015, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'YPA6PZQNXN2DWVIUFHETBUO4', 'name': 'projects/test-project-agb/operations/YPA6PZQNXN2DWVIUFHETBUO4'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733521910015, 'update_timestamp_ms': 1733521944639, 'start_timestamp_ms': 1733521916853, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1083.077148437, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'YPA6PZQNXN2DWVIUFHETBUO4', 'name': 'projects/test-project-agb/operations/YPA6PZQNXN2DWVIUFHETBUO4'}
+Lenght of table id 39
+Number of GEDI points: 493512
+Number of first filtered GEDI points: 135413
+Number of 2nd filtered GEDI points: 135413
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733522030705, 'update_timestamp_ms': 1733522030705, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'HBV6EPG433NOAVM7VWFP6EXH', 'name': 'projects/test-project-agb/operations/HBV6EPG433NOAVM7VWFP6EXH'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 28
+Number of GEDI points: 650233
+Number of first filtered GEDI points: 167528
+Number of 2nd filtered GEDI points: 167528
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733522328130, 'update_timestamp_ms': 1733522328130, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '6HPPNEEWDLWV4SG5GOYCFXUH', 'name': 'projects/test-project-agb/operations/6HPPNEEWDLWV4SG5GOYCFXUH'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733522328130, 'update_timestamp_ms': 1733522436548, 'start_timestamp_ms': 1733522335757, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1623.719482421, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': '6HPPNEEWDLWV4SG5GOYCFXUH', 'name': 'projects/test-project-agb/operations/6HPPNEEWDLWV4SG5GOYCFXUH'}
+Lenght of table id 26
+Number of GEDI points: 547487
+Number of first filtered GEDI points: 75770
+Number of 2nd filtered GEDI points: 75770
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733522504817, 'update_timestamp_ms': 1733522504817, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'WQ24HUP5FTDU2BOFKLXI6A6B', 'name': 'projects/test-project-agb/operations/WQ24HUP5FTDU2BOFKLXI6A6B'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 19
+Number of GEDI points: 393184
+Number of first filtered GEDI points: 93689
+Number of 2nd filtered GEDI points: 93689
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733522937075, 'update_timestamp_ms': 1733522937075, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'XDYCVHTWUH3LOQ66GAU6JXVQ', 'name': 'projects/test-project-agb/operations/XDYCVHTWUH3LOQ66GAU6JXVQ'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 22
+Number of GEDI points: 455348
+Number of first filtered GEDI points: 18033
+Number of 2nd filtered GEDI points: 18033
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733523744126, 'update_timestamp_ms': 1733523744126, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '4GTMK4X2FJRK6EZ4D3QJJ2LY', 'name': 'projects/test-project-agb/operations/4GTMK4X2FJRK6EZ4D3QJJ2LY'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 17
+Number of GEDI points: 307376
+Number of first filtered GEDI points: 15622
+Number of 2nd filtered GEDI points: 15622
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733523837126, 'update_timestamp_ms': 1733523837126, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'SAKS3IEG7A6WFGUKYTSNUYPQ', 'name': 'projects/test-project-agb/operations/SAKS3IEG7A6WFGUKYTSNUYPQ'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 24
+Number of GEDI points: 564844
+Number of first filtered GEDI points: 129060
+Number of 2nd filtered GEDI points: 129060
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733523983370, 'update_timestamp_ms': 1733523983370, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'ROV6LBRWPFCSSVIXTS76S2LS', 'name': 'projects/test-project-agb/operations/ROV6LBRWPFCSSVIXTS76S2LS'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733523983370, 'update_timestamp_ms': 1733524042794, 'start_timestamp_ms': 1733523996544, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1912.681274414, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'ROV6LBRWPFCSSVIXTS76S2LS', 'name': 'projects/test-project-agb/operations/ROV6LBRWPFCSSVIXTS76S2LS'}
+Lenght of table id 29
+Number of GEDI points: 664012
+Number of first filtered GEDI points: 106930
+Number of 2nd filtered GEDI points: 106930
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733524103792, 'update_timestamp_ms': 1733524103792, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'CRCFV6GCHUIECKGG6T3AMP4I', 'name': 'projects/test-project-agb/operations/CRCFV6GCHUIECKGG6T3AMP4I'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 22
+Number of GEDI points: 454854
+Number of first filtered GEDI points: 137969
+Number of 2nd filtered GEDI points: 137969
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733524498418, 'update_timestamp_ms': 1733524498418, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'OEYM32UHQSHOTQDBNUOO7Z7Y', 'name': 'projects/test-project-agb/operations/OEYM32UHQSHOTQDBNUOO7Z7Y'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733524498418, 'update_timestamp_ms': 1733524545647, 'start_timestamp_ms': 1733524508983, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 2082.418701171, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'OEYM32UHQSHOTQDBNUOO7Z7Y', 'name': 'projects/test-project-agb/operations/OEYM32UHQSHOTQDBNUOO7Z7Y'}
+Lenght of table id 19
+Number of GEDI points: 388742
+Number of first filtered GEDI points: 100729
+Number of 2nd filtered GEDI points: 100729
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733524590364, 'update_timestamp_ms': 1733524590364, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'HB5UBCBFGQXVHRDZMG7DAH5U', 'name': 'projects/test-project-agb/operations/HB5UBCBFGQXVHRDZMG7DAH5U'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 27
+Number of GEDI points: 525178
+Number of first filtered GEDI points: 91423
+Number of 2nd filtered GEDI points: 91423
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733524830564, 'update_timestamp_ms': 1733524830564, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'F56CRKHCLYAEQUGM7MMHSGZ6', 'name': 'projects/test-project-agb/operations/F56CRKHCLYAEQUGM7MMHSGZ6'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 28
+Number of GEDI points: 696572
+Number of first filtered GEDI points: 118570
+Number of 2nd filtered GEDI points: 118570
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733525184620, 'update_timestamp_ms': 1733525184620, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'HRQF2G7PWLCPWHYLACCVMQDP', 'name': 'projects/test-project-agb/operations/HRQF2G7PWLCPWHYLACCVMQDP'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 38
+Number of GEDI points: 480510
+Number of first filtered GEDI points: 141999
+Number of 2nd filtered GEDI points: 141999
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733525724157, 'update_timestamp_ms': 1733525724157, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '7MQMMOM3TYZCIGEYPVAXHWD6', 'name': 'projects/test-project-agb/operations/7MQMMOM3TYZCIGEYPVAXHWD6'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733525724157, 'update_timestamp_ms': 1733525791219, 'start_timestamp_ms': 1733525731366, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1258.243774414, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': '7MQMMOM3TYZCIGEYPVAXHWD6', 'name': 'projects/test-project-agb/operations/7MQMMOM3TYZCIGEYPVAXHWD6'}
+Lenght of table id 18
+Number of GEDI points: 363367
+Number of first filtered GEDI points: 119005
+Number of 2nd filtered GEDI points: 119005
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733525854046, 'update_timestamp_ms': 1733525854046, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '3BVRFTQ54UWJPGWCI75ISRKK', 'name': 'projects/test-project-agb/operations/3BVRFTQ54UWJPGWCI75ISRKK'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 24
+Number of GEDI points: 497923
+Number of first filtered GEDI points: 96690
+Number of 2nd filtered GEDI points: 96690
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733526127049, 'update_timestamp_ms': 1733526127049, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '27DAR22FMCWLRYTWTI4MDEVK', 'name': 'projects/test-project-agb/operations/27DAR22FMCWLRYTWTI4MDEVK'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 30
+Number of GEDI points: 676800
+Number of first filtered GEDI points: 125467
+Number of 2nd filtered GEDI points: 125467
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733526500567, 'update_timestamp_ms': 1733526500567, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'E6COFYN4WKPQJWA4DGPKYVWB', 'name': 'projects/test-project-agb/operations/E6COFYN4WKPQJWA4DGPKYVWB'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 21
+Number of GEDI points: 424060
+Number of first filtered GEDI points: 24940
+Number of 2nd filtered GEDI points: 24940
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733526965869, 'update_timestamp_ms': 1733526965869, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'MRLVRFZHCBLMKU3IQ74QTQYT', 'name': 'projects/test-project-agb/operations/MRLVRFZHCBLMKU3IQ74QTQYT'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 22
+Number of GEDI points: 524561
+Number of first filtered GEDI points: 160049
+Number of 2nd filtered GEDI points: 160049
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733527134266, 'update_timestamp_ms': 1733527134266, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'CPKNF6TFFXAXPL3U2J3LCPQV', 'name': 'projects/test-project-agb/operations/CPKNF6TFFXAXPL3U2J3LCPQV'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733527134266, 'update_timestamp_ms': 1733527220681, 'start_timestamp_ms': 1733527138970, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1903.970092773, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'CPKNF6TFFXAXPL3U2J3LCPQV', 'name': 'projects/test-project-agb/operations/CPKNF6TFFXAXPL3U2J3LCPQV'}
+Lenght of table id 22
+Number of GEDI points: 459918
+Number of first filtered GEDI points: 115165
+Number of 2nd filtered GEDI points: 115165
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733527270123, 'update_timestamp_ms': 1733527270123, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'R5V6WLF4N5L4PMNAX4LSJ6XF', 'name': 'projects/test-project-agb/operations/R5V6WLF4N5L4PMNAX4LSJ6XF'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 24
+Number of GEDI points: 469904
+Number of first filtered GEDI points: 80790
+Number of 2nd filtered GEDI points: 80790
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733527673926, 'update_timestamp_ms': 1733527673926, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'SOI2AUXBVVJYCTDTSKNG3F4K', 'name': 'projects/test-project-agb/operations/SOI2AUXBVVJYCTDTSKNG3F4K'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 25
+Number of GEDI points: 550923
+Number of first filtered GEDI points: 116808
+Number of 2nd filtered GEDI points: 116808
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733527875657, 'update_timestamp_ms': 1733527875657, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'WNCDBJZW2BWGBUAV2FEISEX3', 'name': 'projects/test-project-agb/operations/WNCDBJZW2BWGBUAV2FEISEX3'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 25
+Number of GEDI points: 533075
+Number of first filtered GEDI points: 52517
+Number of 2nd filtered GEDI points: 52517
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733528497508, 'update_timestamp_ms': 1733528497508, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'RGFJDT4BYBJVQJ2BWXXGD657', 'name': 'projects/test-project-agb/operations/RGFJDT4BYBJVQJ2BWXXGD657'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 25
+Number of GEDI points: 537060
+Number of first filtered GEDI points: 54827
+Number of 2nd filtered GEDI points: 54827
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733528756377, 'update_timestamp_ms': 1733528756377, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'KMVKBBFIIDRFPPMLV2DEES5Y', 'name': 'projects/test-project-agb/operations/KMVKBBFIIDRFPPMLV2DEES5Y'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 25
+Number of GEDI points: 512219
+Number of first filtered GEDI points: 122900
+Number of 2nd filtered GEDI points: 122900
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733529079829, 'update_timestamp_ms': 1733529079829, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '6UG7HL43IXIRI4XOX5JM7BSH', 'name': 'projects/test-project-agb/operations/6UG7HL43IXIRI4XOX5JM7BSH'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 40
+Number of GEDI points: 574420
+Number of first filtered GEDI points: 119650
+Number of 2nd filtered GEDI points: 119650
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733529718218, 'update_timestamp_ms': 1733529718218, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'HAB6I5UIXQI6W3LOWS2AU4ST', 'name': 'projects/test-project-agb/operations/HAB6I5UIXQI6W3LOWS2AU4ST'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 24
+Number of GEDI points: 525695
+Number of first filtered GEDI points: 126156
+Number of 2nd filtered GEDI points: 126156
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733530255278, 'update_timestamp_ms': 1733530255278, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'IHSLW2NSEN7QFQU56RNIYDHP', 'name': 'projects/test-project-agb/operations/IHSLW2NSEN7QFQU56RNIYDHP'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 23
+Number of GEDI points: 499049
+Number of first filtered GEDI points: 138610
+Number of 2nd filtered GEDI points: 138610
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733530735977, 'update_timestamp_ms': 1733530735977, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'Y6LDCJSL2FKIOWP4QI6Y6YJ4', 'name': 'projects/test-project-agb/operations/Y6LDCJSL2FKIOWP4QI6Y6YJ4'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 23
+Number of GEDI points: 495747
+Number of first filtered GEDI points: 86234
+Number of 2nd filtered GEDI points: 86234
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733531024564, 'update_timestamp_ms': 1733531024564, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'BUKT2AUVOFSWUVDZFHHECZNV', 'name': 'projects/test-project-agb/operations/BUKT2AUVOFSWUVDZFHHECZNV'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 24
+Number of GEDI points: 547645
+Number of first filtered GEDI points: 105885
+Number of 2nd filtered GEDI points: 105885
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733531422626, 'update_timestamp_ms': 1733531422626, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'KZDZHSC7HWAH77PPVHF56ZL4', 'name': 'projects/test-project-agb/operations/KZDZHSC7HWAH77PPVHF56ZL4'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 27
+Number of GEDI points: 538077
+Number of first filtered GEDI points: 95523
+Number of 2nd filtered GEDI points: 95523
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733531686558, 'update_timestamp_ms': 1733531686558, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'CPKS3MXED7J77MSEOSURKA4X', 'name': 'projects/test-project-agb/operations/CPKS3MXED7J77MSEOSURKA4X'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 20
+Number of GEDI points: 457594
+Number of first filtered GEDI points: 100114
+Number of 2nd filtered GEDI points: 100114
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733532165491, 'update_timestamp_ms': 1733532165491, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'OZ4T25M5FCUCGYUHYHQLDTDU', 'name': 'projects/test-project-agb/operations/OZ4T25M5FCUCGYUHYHQLDTDU'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 20
+Number of GEDI points: 373903
+Number of first filtered GEDI points: 65585
+Number of 2nd filtered GEDI points: 65585
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733532487352, 'update_timestamp_ms': 1733532487352, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '4SR4NXTU4ZKLZTYFRGGXP5L4', 'name': 'projects/test-project-agb/operations/4SR4NXTU4ZKLZTYFRGGXP5L4'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 24
+Number of GEDI points: 521401
+Number of first filtered GEDI points: 41217
+Number of 2nd filtered GEDI points: 41217
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733532725534, 'update_timestamp_ms': 1733532725534, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'SCKK7NVQTZGU2D6K4ZKF5TQF', 'name': 'projects/test-project-agb/operations/SCKK7NVQTZGU2D6K4ZKF5TQF'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 30
+Number of GEDI points: 667626
+Number of first filtered GEDI points: 132924
+Number of 2nd filtered GEDI points: 132924
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733533105445, 'update_timestamp_ms': 1733533105445, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'RUDQ6XWZLN3ZTGDMQBH7QB2C', 'name': 'projects/test-project-agb/operations/RUDQ6XWZLN3ZTGDMQBH7QB2C'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733533105445, 'update_timestamp_ms': 1733533172244, 'start_timestamp_ms': 1733533112766, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1589.569580078, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'RUDQ6XWZLN3ZTGDMQBH7QB2C', 'name': 'projects/test-project-agb/operations/RUDQ6XWZLN3ZTGDMQBH7QB2C'}
+Lenght of table id 26
+Number of GEDI points: 544479
+Number of first filtered GEDI points: 102737
+Number of 2nd filtered GEDI points: 102737
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733533259214, 'update_timestamp_ms': 1733533259214, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'VIZPFTEMBNB3DJ6SMVYOHNXE', 'name': 'projects/test-project-agb/operations/VIZPFTEMBNB3DJ6SMVYOHNXE'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 23
+Number of GEDI points: 415762
+Number of first filtered GEDI points: 75602
+Number of 2nd filtered GEDI points: 75602
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733533754142, 'update_timestamp_ms': 1733533754142, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '43IFB2CE7MUJEATM3BGDJ4LU', 'name': 'projects/test-project-agb/operations/43IFB2CE7MUJEATM3BGDJ4LU'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 44
+Number of GEDI points: 540985
+Number of first filtered GEDI points: 72105
+Number of 2nd filtered GEDI points: 72105
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733534132269, 'update_timestamp_ms': 1733534132269, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'Q6VBGM7GS5WVHHHYCG7ZNCTY', 'name': 'projects/test-project-agb/operations/Q6VBGM7GS5WVHHHYCG7ZNCTY'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 29
+Number of GEDI points: 689781
+Number of first filtered GEDI points: 88687
+Number of 2nd filtered GEDI points: 88687
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733534431377, 'update_timestamp_ms': 1733534431377, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'NC2IA7DWEQWEXUXNY6Z2SJQH', 'name': 'projects/test-project-agb/operations/NC2IA7DWEQWEXUXNY6Z2SJQH'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 25
+Number of GEDI points: 548254
+Number of first filtered GEDI points: 115083
+Number of 2nd filtered GEDI points: 115083
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733534857418, 'update_timestamp_ms': 1733534857418, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'SJNYC32MZ5Y7UNWCH6PGPILJ', 'name': 'projects/test-project-agb/operations/SJNYC32MZ5Y7UNWCH6PGPILJ'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 19
+Number of GEDI points: 361568
+Number of first filtered GEDI points: 115423
+Number of 2nd filtered GEDI points: 115423
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733535347890, 'update_timestamp_ms': 1733535347890, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'BFJ4WESUYTHDQXF6YXO6DXYC', 'name': 'projects/test-project-agb/operations/BFJ4WESUYTHDQXF6YXO6DXYC'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 23
+Number of GEDI points: 475033
+Number of first filtered GEDI points: 120179
+Number of 2nd filtered GEDI points: 120179
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733536035243, 'update_timestamp_ms': 1733536035243, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'QK4E37UYVPZDZR4UEDG3QTOO', 'name': 'projects/test-project-agb/operations/QK4E37UYVPZDZR4UEDG3QTOO'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 18
+Number of GEDI points: 376546
+Number of first filtered GEDI points: 72193
+Number of 2nd filtered GEDI points: 72193
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733536351835, 'update_timestamp_ms': 1733536351835, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'QPCOTM3GIJILZSPAVLI7UKOF', 'name': 'projects/test-project-agb/operations/QPCOTM3GIJILZSPAVLI7UKOF'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 22
+Number of GEDI points: 499481
+Number of first filtered GEDI points: 110343
+Number of 2nd filtered GEDI points: 110343
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733536551647, 'update_timestamp_ms': 1733536551647, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'VC3HNFWWECZBJ45LCO2GBI62', 'name': 'projects/test-project-agb/operations/VC3HNFWWECZBJ45LCO2GBI62'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 27
+Number of GEDI points: 610727
+Number of first filtered GEDI points: 69407
+Number of 2nd filtered GEDI points: 69407
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733536893960, 'update_timestamp_ms': 1733536893960, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '5CIE5AJFBVILUWP5QFQ52T47', 'name': 'projects/test-project-agb/operations/5CIE5AJFBVILUWP5QFQ52T47'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 23
+Number of GEDI points: 502090
+Number of first filtered GEDI points: 94566
+Number of 2nd filtered GEDI points: 94566
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733537302221, 'update_timestamp_ms': 1733537302221, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'VYFYKSBKYASDTZVEII6HBQVG', 'name': 'projects/test-project-agb/operations/VYFYKSBKYASDTZVEII6HBQVG'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 18
+Number of GEDI points: 367609
+Number of first filtered GEDI points: 75143
+Number of 2nd filtered GEDI points: 75143
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733538019845, 'update_timestamp_ms': 1733538019845, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'R5D37PZNGGPBWXIKOYVOROGE', 'name': 'projects/test-project-agb/operations/R5D37PZNGGPBWXIKOYVOROGE'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 26
+Number of GEDI points: 543587
+Number of first filtered GEDI points: 86007
+Number of 2nd filtered GEDI points: 86007
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733538366046, 'update_timestamp_ms': 1733538366046, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'H73RGX6RJ63EYZYDUXBNSUZT', 'name': 'projects/test-project-agb/operations/H73RGX6RJ63EYZYDUXBNSUZT'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 29
+Number of GEDI points: 724932
+Number of first filtered GEDI points: 86298
+Number of 2nd filtered GEDI points: 86298
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733538606726, 'update_timestamp_ms': 1733538606726, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'LFZJ7DV7HLO4ZUMES5YWRZ76', 'name': 'projects/test-project-agb/operations/LFZJ7DV7HLO4ZUMES5YWRZ76'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 40
+Number of GEDI points: 535956
+Number of first filtered GEDI points: 121820
+Number of 2nd filtered GEDI points: 121820
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733539246410, 'update_timestamp_ms': 1733539246410, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'IL6GCTFVDLROT2LGQNWWJSJF', 'name': 'projects/test-project-agb/operations/IL6GCTFVDLROT2LGQNWWJSJF'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733539246410, 'update_timestamp_ms': 1733539317369, 'start_timestamp_ms': 1733539254738, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1308.533447265, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'IL6GCTFVDLROT2LGQNWWJSJF', 'name': 'projects/test-project-agb/operations/IL6GCTFVDLROT2LGQNWWJSJF'}
+Lenght of table id 19
+Number of GEDI points: 375479
+Number of first filtered GEDI points: 146290
+Number of 2nd filtered GEDI points: 146290
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733539381315, 'update_timestamp_ms': 1733539381315, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'WAH4ZY3LSU2LM2XKKM3WKPIV', 'name': 'projects/test-project-agb/operations/WAH4ZY3LSU2LM2XKKM3WKPIV'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733539381315, 'update_timestamp_ms': 1733539420357, 'start_timestamp_ms': 1733539394680, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1081.185058593, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'WAH4ZY3LSU2LM2XKKM3WKPIV', 'name': 'projects/test-project-agb/operations/WAH4ZY3LSU2LM2XKKM3WKPIV'}
+Lenght of table id 24
+Number of GEDI points: 536327
+Number of first filtered GEDI points: 171859
+Number of 2nd filtered GEDI points: 171859
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733539518311, 'update_timestamp_ms': 1733539518311, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'XE5RPTPDMGHMWEEFIPEPDWWC', 'name': 'projects/test-project-agb/operations/XE5RPTPDMGHMWEEFIPEPDWWC'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733539518311, 'update_timestamp_ms': 1733539616280, 'start_timestamp_ms': 1733539523393, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1398.897705078, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'XE5RPTPDMGHMWEEFIPEPDWWC', 'name': 'projects/test-project-agb/operations/XE5RPTPDMGHMWEEFIPEPDWWC'}
+Lenght of table id 31
+Number of GEDI points: 725141
+Number of first filtered GEDI points: 230857
+Number of 2nd filtered GEDI points: 230857
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733539746454, 'update_timestamp_ms': 1733539746454, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'SHCGTB225UU45LR2RUACA2SG', 'name': 'projects/test-project-agb/operations/SHCGTB225UU45LR2RUACA2SG'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733539746454, 'update_timestamp_ms': 1733539830824, 'start_timestamp_ms': 1733539755833, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1365.429077148, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'SHCGTB225UU45LR2RUACA2SG', 'name': 'projects/test-project-agb/operations/SHCGTB225UU45LR2RUACA2SG'}
+Lenght of table id 23
+Number of GEDI points: 480933
+Number of first filtered GEDI points: 124120
+Number of 2nd filtered GEDI points: 124120
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733539891468, 'update_timestamp_ms': 1733539891468, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'Y26NCPTRYG7X2BSHEAO65G2Y', 'name': 'projects/test-project-agb/operations/Y26NCPTRYG7X2BSHEAO65G2Y'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 24
+Number of GEDI points: 559225
+Number of first filtered GEDI points: 176705
+Number of 2nd filtered GEDI points: 176705
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733540264489, 'update_timestamp_ms': 1733540264489, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '7GU5UCP5VRN2CWEVGJUT2HGJ', 'name': 'projects/test-project-agb/operations/7GU5UCP5VRN2CWEVGJUT2HGJ'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733540264489, 'update_timestamp_ms': 1733540342772, 'start_timestamp_ms': 1733540273031, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 2982.402099609, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': '7GU5UCP5VRN2CWEVGJUT2HGJ', 'name': 'projects/test-project-agb/operations/7GU5UCP5VRN2CWEVGJUT2HGJ'}
+Lenght of table id 26
+Number of GEDI points: 520225
+Number of first filtered GEDI points: 92060
+Number of 2nd filtered GEDI points: 92060
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733540409409, 'update_timestamp_ms': 1733540409409, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'D2BG5BRRQYRJDG5C4LYTLJML', 'name': 'projects/test-project-agb/operations/D2BG5BRRQYRJDG5C4LYTLJML'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 22
+Number of GEDI points: 499392
+Number of first filtered GEDI points: 61771
+Number of 2nd filtered GEDI points: 61771
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733540728893, 'update_timestamp_ms': 1733540728893, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'C563CD5HOWB2ZPAC6A6M2CBH', 'name': 'projects/test-project-agb/operations/C563CD5HOWB2ZPAC6A6M2CBH'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 23
+Number of GEDI points: 454302
+Number of first filtered GEDI points: 100095
+Number of 2nd filtered GEDI points: 100095
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733541415979, 'update_timestamp_ms': 1733541415979, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '2Z6Y2GIVH2OZWWIPOURCAUDH', 'name': 'projects/test-project-agb/operations/2Z6Y2GIVH2OZWWIPOURCAUDH'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 24
+Number of GEDI points: 566783
+Number of first filtered GEDI points: 109291
+Number of 2nd filtered GEDI points: 109291
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733541777773, 'update_timestamp_ms': 1733541777773, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'JPFP5EMIB3YODW7AVG6IGH3O', 'name': 'projects/test-project-agb/operations/JPFP5EMIB3YODW7AVG6IGH3O'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 24
+Number of GEDI points: 517335
+Number of first filtered GEDI points: 68545
+Number of 2nd filtered GEDI points: 68545
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733542003852, 'update_timestamp_ms': 1733542003852, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '234MDBZOSFMI57BDM5KAVEE5', 'name': 'projects/test-project-agb/operations/234MDBZOSFMI57BDM5KAVEE5'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 22
+Number of GEDI points: 464517
+Number of first filtered GEDI points: 74664
+Number of 2nd filtered GEDI points: 74664
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733542470349, 'update_timestamp_ms': 1733542470349, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'LH6IGUBD3C4YPAEMCZVY6UOT', 'name': 'projects/test-project-agb/operations/LH6IGUBD3C4YPAEMCZVY6UOT'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 40
+Number of GEDI points: 555782
+Number of first filtered GEDI points: 150722
+Number of 2nd filtered GEDI points: 150722
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733542749136, 'update_timestamp_ms': 1733542749136, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'YOLAV3UQR3VUQD5DZW2N4NQ3', 'name': 'projects/test-project-agb/operations/YOLAV3UQR3VUQD5DZW2N4NQ3'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733542749136, 'update_timestamp_ms': 1733542785448, 'start_timestamp_ms': 1733542762185, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1559.242675781, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'YOLAV3UQR3VUQD5DZW2N4NQ3', 'name': 'projects/test-project-agb/operations/YOLAV3UQR3VUQD5DZW2N4NQ3'}
+Lenght of table id 27
+Number of GEDI points: 599441
+Number of first filtered GEDI points: 211513
+Number of 2nd filtered GEDI points: 211513
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733542872756, 'update_timestamp_ms': 1733542872756, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'QXHC4CKP4BAQOSHRPLY24CJ3', 'name': 'projects/test-project-agb/operations/QXHC4CKP4BAQOSHRPLY24CJ3'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733542872756, 'update_timestamp_ms': 1733542921221, 'start_timestamp_ms': 1733542883476, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1428.74633789, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'QXHC4CKP4BAQOSHRPLY24CJ3', 'name': 'projects/test-project-agb/operations/QXHC4CKP4BAQOSHRPLY24CJ3'}
+Lenght of table id 24
+Number of GEDI points: 547997
+Number of first filtered GEDI points: 161901
+Number of 2nd filtered GEDI points: 161901
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733542984054, 'update_timestamp_ms': 1733542984054, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'MMMMFA3UKH5ETMGUY3URYLOY', 'name': 'projects/test-project-agb/operations/MMMMFA3UKH5ETMGUY3URYLOY'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733542984054, 'update_timestamp_ms': 1733543072658, 'start_timestamp_ms': 1733542993198, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1113.892089843, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'MMMMFA3UKH5ETMGUY3URYLOY', 'name': 'projects/test-project-agb/operations/MMMMFA3UKH5ETMGUY3URYLOY'}
+Lenght of table id 22
+Number of GEDI points: 437782
+Number of first filtered GEDI points: 143968
+Number of 2nd filtered GEDI points: 143968
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733543120919, 'update_timestamp_ms': 1733543120919, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '3ZEYDPPL4RUDSDULK2S7AAET', 'name': 'projects/test-project-agb/operations/3ZEYDPPL4RUDSDULK2S7AAET'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 24
+Number of GEDI points: 512990
+Number of first filtered GEDI points: 154301
+Number of 2nd filtered GEDI points: 154301
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733543634196, 'update_timestamp_ms': 1733543634196, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'C43MJQXYQGTJOED3ZGUA5HQ6', 'name': 'projects/test-project-agb/operations/C43MJQXYQGTJOED3ZGUA5HQ6'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733543634196, 'update_timestamp_ms': 1733543688641, 'start_timestamp_ms': 1733543640057, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 2924.495605468, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'C43MJQXYQGTJOED3ZGUA5HQ6', 'name': 'projects/test-project-agb/operations/C43MJQXYQGTJOED3ZGUA5HQ6'}
+Lenght of table id 26
+Number of GEDI points: 588772
+Number of first filtered GEDI points: 105727
+Number of 2nd filtered GEDI points: 105727
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733543745540, 'update_timestamp_ms': 1733543745540, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'VWAMZP3D2TICB3LFLHZQQZPH', 'name': 'projects/test-project-agb/operations/VWAMZP3D2TICB3LFLHZQQZPH'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 23
+Number of GEDI points: 517763
+Number of first filtered GEDI points: 91760
+Number of 2nd filtered GEDI points: 91760
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733544031287, 'update_timestamp_ms': 1733544031287, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'B3MPEUIKMWT2IK55LU7NH373', 'name': 'projects/test-project-agb/operations/B3MPEUIKMWT2IK55LU7NH373'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 21
+Number of GEDI points: 409023
+Number of first filtered GEDI points: 64846
+Number of 2nd filtered GEDI points: 64846
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733544256448, 'update_timestamp_ms': 1733544256448, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'LSZKJ4YS2R6MDNF6UVTSWWQK', 'name': 'projects/test-project-agb/operations/LSZKJ4YS2R6MDNF6UVTSWWQK'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 26
+Number of GEDI points: 580873
+Number of first filtered GEDI points: 73387
+Number of 2nd filtered GEDI points: 73387
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733544395422, 'update_timestamp_ms': 1733544395422, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'WLMWWBQ7GUNONSREGIDPD3YW', 'name': 'projects/test-project-agb/operations/WLMWWBQ7GUNONSREGIDPD3YW'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 27
+Number of GEDI points: 571521
+Number of first filtered GEDI points: 67551
+Number of 2nd filtered GEDI points: 67551
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733544627164, 'update_timestamp_ms': 1733544627164, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'EBSMACQV5T3GJVKNG6BCPSS7', 'name': 'projects/test-project-agb/operations/EBSMACQV5T3GJVKNG6BCPSS7'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 22
+Number of GEDI points: 449710
+Number of first filtered GEDI points: 87282
+Number of 2nd filtered GEDI points: 87282
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733545100453, 'update_timestamp_ms': 1733545100453, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '72CFL7BIY26ZUBFQDWPZKR6R', 'name': 'projects/test-project-agb/operations/72CFL7BIY26ZUBFQDWPZKR6R'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 21
+Number of GEDI points: 450029
+Number of first filtered GEDI points: 62602
+Number of 2nd filtered GEDI points: 62602
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733545600283, 'update_timestamp_ms': 1733545600283, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'PHT3X3VJA6OVYQ5HJHO6CY3F', 'name': 'projects/test-project-agb/operations/PHT3X3VJA6OVYQ5HJHO6CY3F'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 40
+Number of GEDI points: 510973
+Number of first filtered GEDI points: 126829
+Number of 2nd filtered GEDI points: 126829
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733545797224, 'update_timestamp_ms': 1733545797224, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '7ESW7ZWRUKQBC6GY4V3VNQHE', 'name': 'projects/test-project-agb/operations/7ESW7ZWRUKQBC6GY4V3VNQHE'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733545797224, 'update_timestamp_ms': 1733545853076, 'start_timestamp_ms': 1733545809397, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1726.350463867, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': '7ESW7ZWRUKQBC6GY4V3VNQHE', 'name': 'projects/test-project-agb/operations/7ESW7ZWRUKQBC6GY4V3VNQHE'}
+Lenght of table id 26
+Number of GEDI points: 627510
+Number of first filtered GEDI points: 139306
+Number of 2nd filtered GEDI points: 139306
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733545918845, 'update_timestamp_ms': 1733545918845, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'MNHQ2COC6ULTNAZWHPYMPTAV', 'name': 'projects/test-project-agb/operations/MNHQ2COC6ULTNAZWHPYMPTAV'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733545918845, 'update_timestamp_ms': 1733545987126, 'start_timestamp_ms': 1733545930309, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1698.74645996, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'MNHQ2COC6ULTNAZWHPYMPTAV', 'name': 'projects/test-project-agb/operations/MNHQ2COC6ULTNAZWHPYMPTAV'}
+Lenght of table id 23
+Number of GEDI points: 498460
+Number of first filtered GEDI points: 103972
+Number of 2nd filtered GEDI points: 103972
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733546061849, 'update_timestamp_ms': 1733546061849, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'MUQFBW5WCWBZR7UM7A7QFZ45', 'name': 'projects/test-project-agb/operations/MUQFBW5WCWBZR7UM7A7QFZ45'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 20
+Number of GEDI points: 375781
+Number of first filtered GEDI points: 99344
+Number of 2nd filtered GEDI points: 99344
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733546505805, 'update_timestamp_ms': 1733546505805, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '3BZ6C5Q2LE4MDDLMLMN54MJN', 'name': 'projects/test-project-agb/operations/3BZ6C5Q2LE4MDDLMLMN54MJN'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 25
+Number of GEDI points: 484385
+Number of first filtered GEDI points: 83712
+Number of 2nd filtered GEDI points: 83712
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733546682084, 'update_timestamp_ms': 1733546682084, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'KGZUAB67IX2ZA4ZA3TDYN7FM', 'name': 'projects/test-project-agb/operations/KGZUAB67IX2ZA4ZA3TDYN7FM'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 18
+Number of GEDI points: 379647
+Number of first filtered GEDI points: 58180
+Number of 2nd filtered GEDI points: 58180
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733547386981, 'update_timestamp_ms': 1733547386981, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'NZ7CKCNOJS2V5LIUFQ3KB3YI', 'name': 'projects/test-project-agb/operations/NZ7CKCNOJS2V5LIUFQ3KB3YI'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 24
+Number of GEDI points: 516892
+Number of first filtered GEDI points: 103258
+Number of 2nd filtered GEDI points: 103258
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733548670125, 'update_timestamp_ms': 1733548670125, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '2M6KDITZX6CEJU2VACLGHJLZ', 'name': 'projects/test-project-agb/operations/2M6KDITZX6CEJU2VACLGHJLZ'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 30
+Number of GEDI points: 677322
+Number of first filtered GEDI points: 105632
+Number of 2nd filtered GEDI points: 105632
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733549626567, 'update_timestamp_ms': 1733549626567, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'CIAS7NNPVG4ZKL7KCVJEEOFJ', 'name': 'projects/test-project-agb/operations/CIAS7NNPVG4ZKL7KCVJEEOFJ'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 23
+Number of GEDI points: 485341
+Number of first filtered GEDI points: 61414
+Number of 2nd filtered GEDI points: 61414
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733549947050, 'update_timestamp_ms': 1733549947050, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'RCVEOGVFETLR62GB7JUBLR4P', 'name': 'projects/test-project-agb/operations/RCVEOGVFETLR62GB7JUBLR4P'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 20
+Number of GEDI points: 363991
+Number of first filtered GEDI points: 57062
+Number of 2nd filtered GEDI points: 57062
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733550112804, 'update_timestamp_ms': 1733550112804, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'IAOIRXXQHR3AFHW23GGXS2BQ', 'name': 'projects/test-project-agb/operations/IAOIRXXQHR3AFHW23GGXS2BQ'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 23
+Number of GEDI points: 558045
+Number of first filtered GEDI points: 49446
+Number of 2nd filtered GEDI points: 49446
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733550406990, 'update_timestamp_ms': 1733550406990, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'XGPKTXJDPTLRLTEJLH7YT2JT', 'name': 'projects/test-project-agb/operations/XGPKTXJDPTLRLTEJLH7YT2JT'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 28
+Number of GEDI points: 583339
+Number of first filtered GEDI points: 83857
+Number of 2nd filtered GEDI points: 83857
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733550669995, 'update_timestamp_ms': 1733550669995, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'ER336G6MKGTWHE6G6EK7YCNH', 'name': 'projects/test-project-agb/operations/ER336G6MKGTWHE6G6EK7YCNH'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 34
+Number of GEDI points: 499118
+Number of first filtered GEDI points: 154992
+Number of 2nd filtered GEDI points: 154992
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733550921423, 'update_timestamp_ms': 1733550921423, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'Q55UJ3JMDT6WRDBKDRQSZBG4', 'name': 'projects/test-project-agb/operations/Q55UJ3JMDT6WRDBKDRQSZBG4'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733550921423, 'update_timestamp_ms': 1733550986874, 'start_timestamp_ms': 1733550928295, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1358.858642578, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'Q55UJ3JMDT6WRDBKDRQSZBG4', 'name': 'projects/test-project-agb/operations/Q55UJ3JMDT6WRDBKDRQSZBG4'}
+Lenght of table id 16
+Number of GEDI points: 277505
+Number of first filtered GEDI points: 126628
+Number of 2nd filtered GEDI points: 126628
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733551044843, 'update_timestamp_ms': 1733551044843, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '4F6XKI2NBHUP3D45SK44BDQS', 'name': 'projects/test-project-agb/operations/4F6XKI2NBHUP3D45SK44BDQS'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 23
+Number of GEDI points: 481339
+Number of first filtered GEDI points: 84196
+Number of 2nd filtered GEDI points: 84196
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733551412080, 'update_timestamp_ms': 1733551412080, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'OJM3ITZKIUXOB7YGQY5QL7KU', 'name': 'projects/test-project-agb/operations/OJM3ITZKIUXOB7YGQY5QL7KU'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 28
+Number of GEDI points: 684243
+Number of first filtered GEDI points: 157447
+Number of 2nd filtered GEDI points: 157447
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733551860784, 'update_timestamp_ms': 1733551860784, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'JIMU7J3G4LP6RXNMF5ROQH7F', 'name': 'projects/test-project-agb/operations/JIMU7J3G4LP6RXNMF5ROQH7F'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733551860784, 'update_timestamp_ms': 1733551896592, 'start_timestamp_ms': 1733551868803, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 901.237365722, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'JIMU7J3G4LP6RXNMF5ROQH7F', 'name': 'projects/test-project-agb/operations/JIMU7J3G4LP6RXNMF5ROQH7F'}
+Lenght of table id 25
+Number of GEDI points: 570906
+Number of first filtered GEDI points: 120312
+Number of 2nd filtered GEDI points: 120312
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733551978085, 'update_timestamp_ms': 1733551978085, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'TGPBGCROIEQAXQ45Q7XBWE7P', 'name': 'projects/test-project-agb/operations/TGPBGCROIEQAXQ45Q7XBWE7P'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 25
+Number of GEDI points: 565706
+Number of first filtered GEDI points: 90986
+Number of 2nd filtered GEDI points: 90986
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733552415108, 'update_timestamp_ms': 1733552415108, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'TV2C2RNE2WTGQMGH3SEWVX4V', 'name': 'projects/test-project-agb/operations/TV2C2RNE2WTGQMGH3SEWVX4V'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 23
+Number of GEDI points: 501399
+Number of first filtered GEDI points: 72307
+Number of 2nd filtered GEDI points: 72307
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733552671296, 'update_timestamp_ms': 1733552671296, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'OD6KSRG2ZOZA6MGIZZLXP6DM', 'name': 'projects/test-project-agb/operations/OD6KSRG2ZOZA6MGIZZLXP6DM'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 22
+Number of GEDI points: 435469
+Number of first filtered GEDI points: 45538
+Number of 2nd filtered GEDI points: 45538
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733552917240, 'update_timestamp_ms': 1733552917240, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '6JU4L5W443ALAXAMQ4XIMEWD', 'name': 'projects/test-project-agb/operations/6JU4L5W443ALAXAMQ4XIMEWD'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 24
+Number of GEDI points: 512126
+Number of first filtered GEDI points: 100895
+Number of 2nd filtered GEDI points: 100895
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733553150268, 'update_timestamp_ms': 1733553150268, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'FJ6CUC4B466BEZR7GYB4WXIS', 'name': 'projects/test-project-agb/operations/FJ6CUC4B466BEZR7GYB4WXIS'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 27
+Number of GEDI points: 598166
+Number of first filtered GEDI points: 103202
+Number of 2nd filtered GEDI points: 103202
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733553422485, 'update_timestamp_ms': 1733553422485, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'EV63JGBWKUVL4JDGHNGTLHKC', 'name': 'projects/test-project-agb/operations/EV63JGBWKUVL4JDGHNGTLHKC'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 25
+Number of GEDI points: 492546
+Number of first filtered GEDI points: 76105
+Number of 2nd filtered GEDI points: 76105
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733553859984, 'update_timestamp_ms': 1733553859984, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'BYWHOJXD44F33JHNVVC6MANC', 'name': 'projects/test-project-agb/operations/BYWHOJXD44F33JHNVVC6MANC'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 20
+Number of GEDI points: 416749
+Number of first filtered GEDI points: 66461
+Number of 2nd filtered GEDI points: 66461
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733554270960, 'update_timestamp_ms': 1733554270960, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'Y7YEQOB3QASLKP2BZEAZFHTL', 'name': 'projects/test-project-agb/operations/Y7YEQOB3QASLKP2BZEAZFHTL'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 31
+Number of GEDI points: 372576
+Number of first filtered GEDI points: 64893
+Number of 2nd filtered GEDI points: 64893
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733554485549, 'update_timestamp_ms': 1733554485549, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '7QZKHZBXKENWBPVEI26DPZ56', 'name': 'projects/test-project-agb/operations/7QZKHZBXKENWBPVEI26DPZ56'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 23
+Number of GEDI points: 556436
+Number of first filtered GEDI points: 150880
+Number of 2nd filtered GEDI points: 150880
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733554706265, 'update_timestamp_ms': 1733554706265, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'O3NN3VWOFRXMY2MUQKYHFX5I', 'name': 'projects/test-project-agb/operations/O3NN3VWOFRXMY2MUQKYHFX5I'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733554706265, 'update_timestamp_ms': 1733554749071, 'start_timestamp_ms': 1733554712763, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1360.315429687, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'O3NN3VWOFRXMY2MUQKYHFX5I', 'name': 'projects/test-project-agb/operations/O3NN3VWOFRXMY2MUQKYHFX5I'}
+Lenght of table id 23
+Number of GEDI points: 461963
+Number of first filtered GEDI points: 98254
+Number of 2nd filtered GEDI points: 98254
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733554804316, 'update_timestamp_ms': 1733554804316, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'KGCOPNOAZFVIAHET73IYKKEL', 'name': 'projects/test-project-agb/operations/KGCOPNOAZFVIAHET73IYKKEL'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 19
+Number of GEDI points: 390766
+Number of first filtered GEDI points: 42277
+Number of 2nd filtered GEDI points: 42277
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733555050419, 'update_timestamp_ms': 1733555050419, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'OUCTBKTOMD4LN76NRSVHPJ5O', 'name': 'projects/test-project-agb/operations/OUCTBKTOMD4LN76NRSVHPJ5O'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 25
+Number of GEDI points: 554282
+Number of first filtered GEDI points: 118568
+Number of 2nd filtered GEDI points: 118568
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733555291716, 'update_timestamp_ms': 1733555291716, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'RK6OSFWWBVWE6UHBX53AO67D', 'name': 'projects/test-project-agb/operations/RK6OSFWWBVWE6UHBX53AO67D'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 29
+Number of GEDI points: 639795
+Number of first filtered GEDI points: 91998
+Number of 2nd filtered GEDI points: 91998
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733555848077, 'update_timestamp_ms': 1733555848077, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'PJN4ULJW2WUSOJATB7PA537W', 'name': 'projects/test-project-agb/operations/PJN4ULJW2WUSOJATB7PA537W'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 25
+Number of GEDI points: 502909
+Number of first filtered GEDI points: 85808
+Number of 2nd filtered GEDI points: 85808
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733556460912, 'update_timestamp_ms': 1733556460912, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'C4WL4RHWEYMJQPKTWSF3TOOA', 'name': 'projects/test-project-agb/operations/C4WL4RHWEYMJQPKTWSF3TOOA'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 21
+Number of GEDI points: 406200
+Number of first filtered GEDI points: 79539
+Number of 2nd filtered GEDI points: 79539
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733558335458, 'update_timestamp_ms': 1733558335458, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'P7PDJ4HWK5XFBUNSGQ5XRVR5', 'name': 'projects/test-project-agb/operations/P7PDJ4HWK5XFBUNSGQ5XRVR5'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 23
+Number of GEDI points: 546729
+Number of first filtered GEDI points: 66478
+Number of 2nd filtered GEDI points: 66478
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733558689817, 'update_timestamp_ms': 1733558689817, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'M2QCNJRY67XRAKT4GX757OXN', 'name': 'projects/test-project-agb/operations/M2QCNJRY67XRAKT4GX757OXN'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 22
+Number of GEDI points: 540595
+Number of first filtered GEDI points: 126384
+Number of 2nd filtered GEDI points: 126384
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733559084134, 'update_timestamp_ms': 1733559084134, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'VHQKSZV5IYKPBHSISHSDBAUY', 'name': 'projects/test-project-agb/operations/VHQKSZV5IYKPBHSISHSDBAUY'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733559084134, 'update_timestamp_ms': 1733559221483, 'start_timestamp_ms': 1733559090933, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1776.982421875, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'VHQKSZV5IYKPBHSISHSDBAUY', 'name': 'projects/test-project-agb/operations/VHQKSZV5IYKPBHSISHSDBAUY'}
+Lenght of table id 21
+Number of GEDI points: 426553
+Number of first filtered GEDI points: 145486
+Number of 2nd filtered GEDI points: 145486
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733559282116, 'update_timestamp_ms': 1733559282116, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'HBY2ONF4E7W5SXNB37UE6M3X', 'name': 'projects/test-project-agb/operations/HBY2ONF4E7W5SXNB37UE6M3X'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733559282116, 'update_timestamp_ms': 1733559334043, 'start_timestamp_ms': 1733559292764, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 1546.321411132, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'HBY2ONF4E7W5SXNB37UE6M3X', 'name': 'projects/test-project-agb/operations/HBY2ONF4E7W5SXNB37UE6M3X'}
+Lenght of table id 22
+Number of GEDI points: 388659
+Number of first filtered GEDI points: 74309
+Number of 2nd filtered GEDI points: 74309
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733559377893, 'update_timestamp_ms': 1733559377893, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'DPXDCZJTPMF2A2MG2SZK7DND', 'name': 'projects/test-project-agb/operations/DPXDCZJTPMF2A2MG2SZK7DND'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 34
+Number of GEDI points: 515010
+Number of first filtered GEDI points: 97508
+Number of 2nd filtered GEDI points: 97508
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733559707661, 'update_timestamp_ms': 1733559707661, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'ZUU4TB36L77XPM4NKAV6NUTB', 'name': 'projects/test-project-agb/operations/ZUU4TB36L77XPM4NKAV6NUTB'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 21
+Number of GEDI points: 478151
+Number of first filtered GEDI points: 52833
+Number of 2nd filtered GEDI points: 52833
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733559805757, 'update_timestamp_ms': 1733559805757, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'GR5YS5ET3RG7GLLUCVQK7N7W', 'name': 'projects/test-project-agb/operations/GR5YS5ET3RG7GLLUCVQK7N7W'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 20
+Number of GEDI points: 429853
+Number of first filtered GEDI points: 67249
+Number of 2nd filtered GEDI points: 67249
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733559944643, 'update_timestamp_ms': 1733559944643, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'E47ROLTV3M2ZDV3YHZ3GYR54', 'name': 'projects/test-project-agb/operations/E47ROLTV3M2ZDV3YHZ3GYR54'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 20
+Number of GEDI points: 429691
+Number of first filtered GEDI points: 29643
+Number of 2nd filtered GEDI points: 29643
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733560188268, 'update_timestamp_ms': 1733560188268, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': '52FSDWCC5JKDNSRWCFBLYAGY', 'name': 'projects/test-project-agb/operations/52FSDWCC5JKDNSRWCFBLYAGY'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 25
+Number of GEDI points: 497990
+Number of first filtered GEDI points: 91261
+Number of 2nd filtered GEDI points: 91261
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733560363812, 'update_timestamp_ms': 1733560363812, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'RWT5GP6BERMXYZ2GMWBWDFWC', 'name': 'projects/test-project-agb/operations/RWT5GP6BERMXYZ2GMWBWDFWC'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 19
+Number of GEDI points: 379210
+Number of first filtered GEDI points: 34661
+Number of 2nd filtered GEDI points: 34661
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733560739738, 'update_timestamp_ms': 1733560739738, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'IJNDLIXAA2T6NREBQN3SIIVE', 'name': 'projects/test-project-agb/operations/IJNDLIXAA2T6NREBQN3SIIVE'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 26
+Number of GEDI points: 574319
+Number of first filtered GEDI points: 153455
+Number of 2nd filtered GEDI points: 153455
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733561127117, 'update_timestamp_ms': 1733561127117, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'CNNGXIWIRI6J2XL4LQEWL4QG', 'name': 'projects/test-project-agb/operations/CNNGXIWIRI6J2XL4LQEWL4QG'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733561127117, 'update_timestamp_ms': 1733561185793, 'start_timestamp_ms': 1733561131994, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 3415.906005859, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'CNNGXIWIRI6J2XL4LQEWL4QG', 'name': 'projects/test-project-agb/operations/CNNGXIWIRI6J2XL4LQEWL4QG'}
+Lenght of table id 29
+Number of GEDI points: 713893
+Number of first filtered GEDI points: 201626
+Number of 2nd filtered GEDI points: 201626
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733561281781, 'update_timestamp_ms': 1733561281781, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'YQMDILISTS2X6N2R2SYN3J32', 'name': 'projects/test-project-agb/operations/YQMDILISTS2X6N2R2SYN3J32'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: FAILED
+Export task failed: {'state': 'FAILED', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733561281781, 'update_timestamp_ms': 1733561368115, 'start_timestamp_ms': 1733561287308, 'task_type': 'EXPORT_FEATURES', 'attempt': 1, 'batch_eecu_usage_seconds': 3723.437988281, 'error_message': 'Image.reduceRegions: Computed value is too large.', 'id': 'YQMDILISTS2X6N2R2SYN3J32', 'name': 'projects/test-project-agb/operations/YQMDILISTS2X6N2R2SYN3J32'}
+Lenght of table id 21
+Number of GEDI points: 383318
+Number of first filtered GEDI points: 113282
+Number of 2nd filtered GEDI points: 113282
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733561417769, 'update_timestamp_ms': 1733561417769, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'OVAH5DR3I33HRV6NPXMSNXYC', 'name': 'projects/test-project-agb/operations/OVAH5DR3I33HRV6NPXMSNXYC'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 15
+Number of GEDI points: 282679
+Number of first filtered GEDI points: 36979
+Number of 2nd filtered GEDI points: 36979
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733561631857, 'update_timestamp_ms': 1733561631857, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'MTIBKVFDCA6DTYJ3LT2KEGXQ', 'name': 'projects/test-project-agb/operations/MTIBKVFDCA6DTYJ3LT2KEGXQ'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 22
+Number of GEDI points: 508439
+Number of first filtered GEDI points: 68851
+Number of 2nd filtered GEDI points: 68851
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733561860486, 'update_timestamp_ms': 1733561860486, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'V4TBG75YTQ5UEH476G6DRSQF', 'name': 'projects/test-project-agb/operations/V4TBG75YTQ5UEH476G6DRSQF'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 27
+Number of GEDI points: 596341
+Number of first filtered GEDI points: 81869
+Number of 2nd filtered GEDI points: 81869
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733562038969, 'update_timestamp_ms': 1733562038969, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'D72XEUEZ22BLAA6HA5UQTMV5', 'name': 'projects/test-project-agb/operations/D72XEUEZ22BLAA6HA5UQTMV5'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 35
+Number of GEDI points: 441323
+Number of first filtered GEDI points: 99048
+Number of 2nd filtered GEDI points: 99048
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733562283095, 'update_timestamp_ms': 1733562283095, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'FE5L6RULQD5EQE5JTOUBVUT7', 'name': 'projects/test-project-agb/operations/FE5L6RULQD5EQE5JTOUBVUT7'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 20
+Number of GEDI points: 349813
+Number of first filtered GEDI points: 39416
+Number of 2nd filtered GEDI points: 39416
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733562501314, 'update_timestamp_ms': 1733562501314, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'V66CZRFWV5ZC2ERG2OOSTSIC', 'name': 'projects/test-project-agb/operations/V66CZRFWV5ZC2ERG2OOSTSIC'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 21
+Number of GEDI points: 482050
+Number of first filtered GEDI points: 61942
+Number of 2nd filtered GEDI points: 61942
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733562756629, 'update_timestamp_ms': 1733562756629, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'WY4ZZRDY7VZ72EISS2TLSUAB', 'name': 'projects/test-project-agb/operations/WY4ZZRDY7VZ72EISS2TLSUAB'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
+Lenght of table id 26
+Number of GEDI points: 551911
+Number of first filtered GEDI points: 15267
+Number of 2nd filtered GEDI points: 15267
+{'state': 'READY', 'description': 'Export_training_data_to_CloudStorage', 'priority': 100, 'creation_timestamp_ms': 1733563497905, 'update_timestamp_ms': 1733563497905, 'start_timestamp_ms': 0, 'task_type': 'EXPORT_FEATURES', 'id': 'B7XD4C5GMYDGUPZU7PH7P6VV', 'name': 'projects/test-project-agb/operations/B7XD4C5GMYDGUPZU7PH7P6VV'}
+Export started
+Current task state: READY
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: RUNNING
+Current task state: COMPLETED
+Export task completed successfully.
