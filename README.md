@@ -3,7 +3,7 @@
 ## List of Commands 
 python3 -m venv agb-venv 
 
-source agb-env/bin/activate
+source agb-venv/bin/activate
 
 pip install earthengine-api
 
