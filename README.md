@@ -17,4 +17,4 @@ pip3 install wheel
 
 pip3 install ipykernel geemap ipyleaflet==0.16
 
-python3 -m ipykernel install --user --name=venv-geemap
+python3 -m ipykernel install --user --name=agb-venv
